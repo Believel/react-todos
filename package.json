@@ -1,0 +1,27 @@
+{
+  "name": "react-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Believel/react-todos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Believel/react-todos/issues"
+  },
+  "homepage": "https://github.com/Believel/react-todos#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "classnames": "^2.2.5",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
